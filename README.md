@@ -1,7 +1,7 @@
 Implementation procedure
-WordFrequency.py
-KeywordFreq.py
-KeywordPOS.py
+1. WordFrequency.py
+2. KeywordFreq.py
+3. KeywordPOS.py
 
 Dataset
 K1 dataset.txt

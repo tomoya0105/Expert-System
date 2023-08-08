@@ -103,10 +103,11 @@ reSWFL1 = [(word, count) for word, count in reSWFL1 if word in swfl[0]]
 # swfl[1]の要素にない要素をreSWFL2から削除する
 reSWFL2 = [(word, count) for word, count in reSWFL2 if word in swfl[1]]
 
-        
+'''        
 print(reSWFL1) 
 print("-------------------------------------------------------------------------------------------------")
 print(reSWFL2) 
+'''
 
 # txtファイル作成-------------------------------------------------------
 with open('ShareWordFrequencyList_1.txt', 'w') as f1:
